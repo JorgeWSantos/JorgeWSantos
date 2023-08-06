@@ -1,6 +1,6 @@
 Opa, prazer! eu sou o Jorge. 😁
 
-🔭 Hoje sou Fullstack Pleno.
+🔭 Hoje sou Fullstack Sênior.
 
 🌱 Atualmente estou me especializando em React e React Native
 
