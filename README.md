@@ -2,7 +2,7 @@ Opa, prazer! eu sou o Jorge. 😁
 
 🔭 Fullstack Sênior.
 
-🦋 Tenho Senioridade em React Native, ReactJS, NodeJS, .NET / .NET Core.
+🦋 Tenho Senioridade em React Native, ReactJS, NodeJS, .NET / .NET Core, TS.
 
 🌱 Atualmente estou me especializando Node e Python!
 
